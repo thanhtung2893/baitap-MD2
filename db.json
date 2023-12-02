@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "name": "Nguyễn Thanh Tùng-36gggg",
+      "age": "12",
+      "address": "Hà Nội",
+      "phone": "0978794101",
+      "email": "thanhtubf3x@gmail.com",
+      "id": 8
+    },
+    {
+      "id": 10,
+      "name": "Nguyễn Văn a2AA",
+      "age": "00978794111",
+      "address": "Đà Nẵng2222",
+      "phone": "0978794111",
+      "email": "thanhèwdfdtubf3x@gmail.com"
+    },
+    {
+      "name": "Bùi Minh Thảo",
+      "age": "19",
+      "address": "Thanh Trì",
+      "phone": "0961906175",
+      "email": "Thaodeptrai6969@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Nguyễn Hữu Tuấnaaaaaaaaa",
+      "age": "22",
+      "address": "Nhật Bản",
+      "phone": "0999988877",
+      "email": "Tuanhdjdfjhfeu@gmail.com",
+      "id": 12
+    }
+  ]
+}

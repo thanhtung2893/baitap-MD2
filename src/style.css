@@ -1,0 +1,58 @@
+.body{
+    text-align: center;
+    background-color: rgb(214, 212, 208);
+}
+li{
+  list-style: none;
+}
+.students_render{
+  color:black;
+
+}
+
+.table{
+  width: 100%;
+}
+h2{
+  background-color: rgb(17, 5, 5);
+  margin-top: -20;
+}
+.search{
+    margin-left:990px;
+    background-color:rgb(240, 246, 246);
+    border-color: azure;
+    color: rgb(42, 38, 38);
+}
+.students_edit{
+  display: flex;
+  justify-content: space-around;
+}
+.input__editingStudent{
+ background-color: rgb(240, 246, 246);
+ border-color: azure;
+ color: black;
+ border-radius: 5px;
+ border-color: rgb(23, 195, 69);
+ height: 30px;
+}
+.button__editingStudent{
+  background-color: rgb(245, 245, 245);
+  height: 30px;
+  line-height: 10px;
+  color: black;
+}
+.button__render-edit{
+  background-color: aliceblue;
+  color: black;
+  margin: 5px;
+}
+.button__render-delete{
+  background-color: aliceblue;
+  color: red;
+  border-color: red;
+}
+.modal-content{
+  background-color: black;
+  color: yellow;
+
+}
